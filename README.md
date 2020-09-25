@@ -27,7 +27,7 @@ create the artremis broker
 . cd bin
 . ./artemis-service start
 
-run the project after installation of pache-artemis.
+run the project after installation of apache-artemis.
 
 . This application used to send Message :
    1. point to point (P2P)
